@@ -225,6 +225,11 @@ pip install -r requirements.txt
    - RTF calculations
    - Hardware utilization statistics
 
+## Comparisons
+![Model size](https://github.com/user-attachments/assets/3e9ade89-8abd-4656-90e5-ae980afed86e)
+![Inference Time](https://github.com/user-attachments/assets/48c905b6-f873-4283-8be7-fb60628ade25)
+![Quality Score](https://github.com/user-attachments/assets/7bb11fca-2a4c-4198-b126-bd70ff847d85)
+
 ## 📝 Notes
 
 - All benchmarks performed on CUDA-enabled GPU
